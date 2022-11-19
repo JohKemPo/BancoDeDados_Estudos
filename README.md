@@ -19,4 +19,5 @@
 <br>
 
 
-- <a href="https://acervolima.com/ml-classificacao-vs-clustering/">Classificação vs clustering</a>
+- <a href="https://acervolima.com/ml-classificacao-vs-clustering/">Classificação vs clustering</a><br>
+- <a href="https://www.youtube.com/watch?v=7bwLCNhp42k">importar arquivo CSV para uma tabela no banco</a><br>
