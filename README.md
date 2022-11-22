@@ -23,3 +23,4 @@
 - <a href="https://www.youtube.com/watch?v=7bwLCNhp42k">importar arquivo CSV para uma tabela no banco</a><br>
 - <a href="https://bobcares.com/blog/mysql-error-1452/">Erro MySQL 1452 – Como resolver</a><br>
 - <a href="https://www.youtube.com/watch?v=5ddHcVBusQg&ab_channel=B%C3%B3sonTreinamentos">Importar e Exportar arquivos CSV em tabelas do MySQL</a><br>
+- <a href="https://www.devmedia.com.br/mineracao-e-analise-de-dados-em-sql/29337">Mineração e Análise de Dados em SQL</a><br>
